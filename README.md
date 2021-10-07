@@ -1,5 +1,5 @@
 # learning-pandas
  
 ### Bike Store Sales
-* Use **pandas** to analyze 
-* Basic sales made in a bike shop
+* Use **pandas** to analyze sales made in a bike shop
+* Basic plots
